@@ -1,0 +1,5 @@
+# split-lists
+Adbloc Split lists
+
+lb.usemaxserver.de
+tracking.klickthru.com
