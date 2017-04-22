@@ -1,6 +1,3 @@
-# split-lists
-Adbloc Split lists
-
 www.t-sb.net
 www.t5.ro
 www.ta.com.tw
