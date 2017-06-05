@@ -1670,7 +1670,6 @@ s.visilabs.net
 s.webtrends.com
 s.xbox.com
 s.xp1.ru4.com
-s.youtube.com
 s.zeroredirect.com
 s.zkcdn.net
 s0.2mdn.net
