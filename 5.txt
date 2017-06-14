@@ -9296,3 +9296,5 @@ fbcdn.net
 clevernt.com
 gstaticadssl.l.google.com
 pt.jserver.gemius.pl
+paagead2.googlesyndication.com
+ggoogleads.g.doubleclick.net
