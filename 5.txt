@@ -9298,4 +9298,4 @@ gstaticadssl.l.google.com
 pt.jserver.gemius.pl
 pagead2.googlesyndication.com
 googleads.g.doubleclick.net
-pippeschannels.com
+pipeschannels.com
