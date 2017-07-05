@@ -9300,3 +9300,5 @@ pagead2.googlesyndication.com
 googleads.g.doubleclick.net
 pipeschannels.com
 engine.spotscenered.info
+calendar.google.com
+www3.l.google.com
