@@ -64,3 +64,4 @@ youtube-ui.l.google.com
 youtubei.youtube.com                                                            
 video-stats.l.google.com                                                        
 www-google-analytics.l.google.com
+ssl.gstatic.com
