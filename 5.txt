@@ -32,7 +32,6 @@ idsync-ext.rlcdn.com
 media-match.com
 na.gmtdmp.com
 omaze.com
-open.spotify.com
 pagead-googlehosted.l.google.com
 pagead.l.doubleclick.net
 pagead2.googlesyndication.com
@@ -45,7 +44,6 @@ pubads.g.doubleclick.net
 s0.2mdn.net
 securepubads.g.doubleclick.net
 showads33000.pubmatic.com 
-spclient.wg.spotify.com
 sto3.spotify.com
 u.scdn.co
 v.jwpcdn.com
