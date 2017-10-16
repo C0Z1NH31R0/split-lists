@@ -29,7 +29,6 @@ googleads.g.doubleclick.net
 googlehosted.l.googleusercontent.com
 heads-ec.spotify.com
 idsync-ext.rlcdn.com
-log.spotify.com 
 media-match.com
 na.gmtdmp.com
 omaze.com
