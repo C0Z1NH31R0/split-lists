@@ -98,7 +98,6 @@ fwmrm.net
 googleadapis.l.google.com
 googleads4.g.doubleclick.net
 googleadservices.com
-gstatic.com
 gstaticadssl.l.google.com
 gtssl2-ocsp.geotrust.com
 innovid.com
